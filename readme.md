@@ -7,6 +7,8 @@ MusicNFT is a decentralized platform where musicians and creators can tokenize t
 Contract Address
 0x0e38F95455f44911321b64e486986319D0Ba8c9A
 
+![image](https://github.com/user-attachments/assets/5e7a4e7b-8a32-492a-9e66-3c98d4125bd7)
+
 Project Vision
 
 The MusicNFT project aims to revolutionize the music industry by leveraging blockchain technology to:
